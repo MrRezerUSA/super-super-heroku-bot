@@ -1,0 +1,13 @@
+{
+  "name": "UltraMC",
+  "description": "17-07-2019",
+  "version": "1.0.0",
+  "mail": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+   "discord.js": "11.1.0",
+   "request": "2.81.0"
+  }
+}
